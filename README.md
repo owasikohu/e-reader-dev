@@ -1,5 +1,5 @@
 # e-reader-dev
 カードeリーダー/カードeリーダー+での開発についてまとめる
-[!WARNING]
-Critical content demanding immediate user attention due to potential risks.
-[]
+> [!WARNING]
+> このリポジトリはまだ執筆中です 誤った情報や書きかけがあることに注意してください
+[Wiki](https://github.com/owasikohu/e-reader-dev/wiki)
