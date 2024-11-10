@@ -3,7 +3,7 @@ PATH = /bin:$(DEVKITARM)/bin:../bin:/opt/devkitpro/tools/bin
 PATH_LIB_GCC = $DEVKITARM/arm-none-eabi/lib/thumb
 
 # name of application
-NAME = "sprite demo"
+NAME = "hello-world"
 TARGET = main
 
 # convert graphics
