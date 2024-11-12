@@ -14,4 +14,4 @@ output_jpeg = 'print.jpg'
 dpi_value = (600, 600)
 
 
-convert_bmp_to_tiff(input_bmp, output_jpeg, dpi=dpi_value)
+convert_bmp_to_jpeg(input_bmp, output_jpeg, dpi=dpi_value)
